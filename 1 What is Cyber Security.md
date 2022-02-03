@@ -2,7 +2,7 @@
 
 **Security** means the state of being free from danger or threat.
 
-and the term
+And the term
 
 **Cyber Security (aka Information Technology Security)** refers to the techniquess or practice of protecting computers, networks, programs and data from unauthorised access or attacks that are aimed for `exploitation`.
 
